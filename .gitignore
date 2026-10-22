@@ -51,3 +51,5 @@ public/enhancements.css
 app/index-html.ts
 
 public/sync.js
+
+public/mobile.js
